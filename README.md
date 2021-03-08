@@ -1,2 +1,3 @@
 # age_app
-My first dart &amp; Flutter project.
+This is my first dart &amp; Flutter project.
+you find the code source in the lib folder
