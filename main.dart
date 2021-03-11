@@ -3,8 +3,6 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(MyApp());
 }
-
-//var list_of_q= [];
 class MyApp extends StatefulWidget {
   @override
   State<StatefulWidget> createState() {
